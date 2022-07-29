@@ -1,13 +1,14 @@
-# Lotter.io: Aplicación de sorteos
+# LotterIO: Raffle Application
 ## English Version
 
 This is a practical exercise in a group workshop.
 
 Mentor: 
 [Rodrigo Ríos](https://github.com/rodrigoalejandrorios)
-[Youtube Channel](https://www.youtube.com/channel/UC4RowRfGUXCr9l7I1s507ng)
-## Tech Stack:
 
+Youtube Channel:
+[codrr](https://www.youtube.com/channel/UC4RowRfGUXCr9l7I1s507ng)
+## Tech Stack:
 - ReactJS
 - ViteJS
 - TypeScript
@@ -18,7 +19,6 @@ Mentor:
 
 1. `npm install`
 2. `npm run dev`
-3. Open Web Browser: [http://127.0.0.1:5173/](http://127.0.0.1:5173/)
+3. Open Web Browser: [Localhost](http://127.0.0.1:5173/)
 4. Enjoy!
-
 
