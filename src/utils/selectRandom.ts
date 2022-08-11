@@ -3,12 +3,12 @@ type ResultType = {
     result: Array<string>;
 };
 
-interface selectRandomParams{
+interface SelectRandomParams{
     items: Array<string>;
     amountWinners: number;
 }
 
-export const selectRandom = ({ items, amountWinners }: selectRandomParams): ResultType => {
+export const selectRandom = ({ items, amountWinners }: SelectRandomParams): ResultType => {
     let result: Array<string> = [];
     let arr: Array<string> = [];
 

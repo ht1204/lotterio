@@ -47,7 +47,7 @@ export const InputForm: React.FC<InputFormType> = ({ participant }) => {
                         disabled={item === null || item === ""}
                         type="submit"
                         fullWidth
-                        variant="container"
+                        variant="contained"
                     >
                         Add To List
                     </Button>
